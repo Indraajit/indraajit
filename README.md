@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Indra Ajit</h1>
 <h3 align="center">I am Full Stack Developer and AI / ML Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indraajit" alt="indraajit" /></a> </p>
-
 - 🔭 I’m currently working on **AI Digital Marketing**
 
 - 🌱 I’m currently learning **Pytorch, NLP**
